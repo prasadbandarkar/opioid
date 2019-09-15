@@ -1,0 +1,321 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Barnstable County, MA"	"25001"	"1999"	"1999"	Suppressed	218960	Suppressed
+	"Barnstable County, MA"	"25001"	"2000"	"2000"	Suppressed	222230	Suppressed
+	"Barnstable County, MA"	"25001"	"2001"	"2001"	Suppressed	224087	Suppressed
+	"Barnstable County, MA"	"25001"	"2002"	"2002"	Suppressed	225421	Suppressed
+	"Barnstable County, MA"	"25001"	"2003"	"2003"	Suppressed	226011	Suppressed
+	"Barnstable County, MA"	"25001"	"2004"	"2004"	Suppressed	224264	Suppressed
+	"Barnstable County, MA"	"25001"	"2005"	"2005"	Suppressed	221995	Suppressed
+	"Barnstable County, MA"	"25001"	"2006"	"2006"	10	220037	Unreliable
+	"Barnstable County, MA"	"25001"	"2007"	"2007"	13	218380	Unreliable
+	"Barnstable County, MA"	"25001"	"2008"	"2008"	Suppressed	217066	Suppressed
+	"Barnstable County, MA"	"25001"	"2009"	"2009"	Suppressed	215994	Suppressed
+	"Barnstable County, MA"	"25001"	"2010"	"2010"	14	215888	Unreliable
+	"Barnstable County, MA"	"25001"	"2011"	"2011"	18	215769	Unreliable
+	"Barnstable County, MA"	"25001"	"2012"	"2012"	13	215423	Unreliable
+	"Barnstable County, MA"	"25001"	"2013"	"2013"	20	214990	9.303
+	"Barnstable County, MA"	"25001"	"2014"	"2014"	27	214914	12.563
+	"Barnstable County, MA"	"25001"	"2015"	"2015"	51	214333	23.795
+	"Barnstable County, MA"	"25001"	"2016"	"2016"	68	214276	31.735
+	"Barnstable County, MA"	"25001"	"2017"	"2017"	64	213444	29.984
+	"Berkshire County, MA"	"25003"	"1999"	"1999"	Suppressed	135227	Suppressed
+	"Berkshire County, MA"	"25003"	"2000"	"2000"	Suppressed	134953	Suppressed
+	"Berkshire County, MA"	"25003"	"2001"	"2001"	Suppressed	133928	Suppressed
+	"Berkshire County, MA"	"25003"	"2002"	"2002"	Suppressed	133529	Suppressed
+	"Berkshire County, MA"	"25003"	"2003"	"2003"	Suppressed	133423	Suppressed
+	"Berkshire County, MA"	"25003"	"2004"	"2004"	Suppressed	133076	Suppressed
+	"Berkshire County, MA"	"25003"	"2005"	"2005"	Suppressed	132563	Suppressed
+	"Berkshire County, MA"	"25003"	"2006"	"2006"	Suppressed	131977	Suppressed
+	"Berkshire County, MA"	"25003"	"2007"	"2007"	Suppressed	131883	Suppressed
+	"Berkshire County, MA"	"25003"	"2008"	"2008"	Suppressed	131372	Suppressed
+	"Berkshire County, MA"	"25003"	"2009"	"2009"	Suppressed	131264	Suppressed
+	"Berkshire County, MA"	"25003"	"2010"	"2010"	Suppressed	131219	Suppressed
+	"Berkshire County, MA"	"25003"	"2011"	"2011"	Suppressed	130458	Suppressed
+	"Berkshire County, MA"	"25003"	"2012"	"2012"	13	130016	Unreliable
+	"Berkshire County, MA"	"25003"	"2013"	"2013"	14	129585	Unreliable
+	"Berkshire County, MA"	"25003"	"2014"	"2014"	18	128715	Unreliable
+	"Berkshire County, MA"	"25003"	"2015"	"2015"	24	127828	18.775
+	"Berkshire County, MA"	"25003"	"2016"	"2016"	32	126903	25.216
+	"Berkshire County, MA"	"25003"	"2017"	"2017"	26	126313	20.584
+	"Bristol County, MA"	"25005"	"1999"	"1999"	Suppressed	531208	Suppressed
+	"Bristol County, MA"	"25005"	"2000"	"2000"	Suppressed	534678	Suppressed
+	"Bristol County, MA"	"25005"	"2001"	"2001"	16	538282	Unreliable
+	"Bristol County, MA"	"25005"	"2002"	"2002"	18	542721	Unreliable
+	"Bristol County, MA"	"25005"	"2003"	"2003"	21	546281	3.844
+	"Bristol County, MA"	"25005"	"2004"	"2004"	14	545988	Unreliable
+	"Bristol County, MA"	"25005"	"2005"	"2005"	19	545437	Unreliable
+	"Bristol County, MA"	"25005"	"2006"	"2006"	30	544487	5.510
+	"Bristol County, MA"	"25005"	"2007"	"2007"	30	545288	5.502
+	"Bristol County, MA"	"25005"	"2008"	"2008"	37	546456	6.771
+	"Bristol County, MA"	"25005"	"2009"	"2009"	25	547324	4.568
+	"Bristol County, MA"	"25005"	"2010"	"2010"	31	548285	5.654
+	"Bristol County, MA"	"25005"	"2011"	"2011"	35	548922	6.376
+	"Bristol County, MA"	"25005"	"2012"	"2012"	45	551082	8.166
+	"Bristol County, MA"	"25005"	"2013"	"2013"	43	552780	7.779
+	"Bristol County, MA"	"25005"	"2014"	"2014"	89	554194	16.059
+	"Bristol County, MA"	"25005"	"2015"	"2015"	114	556772	20.475
+	"Bristol County, MA"	"25005"	"2016"	"2016"	210	558324	37.613
+	"Bristol County, MA"	"25005"	"2017"	"2017"	226	561483	40.251
+	"Dukes County, MA"	"25007"	"1999"	"1999"	Suppressed	14707	Suppressed
+	"Dukes County, MA"	"25007"	"2000"	"2000"	Suppressed	14987	Suppressed
+	"Dukes County, MA"	"25007"	"2001"	"2001"	Suppressed	15261	Suppressed
+	"Dukes County, MA"	"25007"	"2002"	"2002"	Suppressed	15482	Suppressed
+	"Dukes County, MA"	"25007"	"2003"	"2003"	Suppressed	15630	Suppressed
+	"Dukes County, MA"	"25007"	"2004"	"2004"	Suppressed	15704	Suppressed
+	"Dukes County, MA"	"25007"	"2005"	"2005"	Suppressed	15743	Suppressed
+	"Dukes County, MA"	"25007"	"2006"	"2006"	Suppressed	15768	Suppressed
+	"Dukes County, MA"	"25007"	"2007"	"2007"	Suppressed	15919	Suppressed
+	"Dukes County, MA"	"25007"	"2008"	"2008"	Suppressed	16132	Suppressed
+	"Dukes County, MA"	"25007"	"2009"	"2009"	Suppressed	16373	Suppressed
+	"Dukes County, MA"	"25007"	"2010"	"2010"	Suppressed	16535	Suppressed
+	"Dukes County, MA"	"25007"	"2011"	"2011"	Suppressed	16766	Suppressed
+	"Dukes County, MA"	"25007"	"2012"	"2012"	Suppressed	17041	Suppressed
+	"Dukes County, MA"	"25007"	"2013"	"2013"	Suppressed	17256	Suppressed
+	"Dukes County, MA"	"25007"	"2014"	"2014"	Suppressed	17356	Suppressed
+	"Dukes County, MA"	"25007"	"2015"	"2015"	Suppressed	17299	Suppressed
+	"Dukes County, MA"	"25007"	"2016"	"2016"	Suppressed	17246	Suppressed
+	"Dukes County, MA"	"25007"	"2017"	"2017"	Suppressed	17325	Suppressed
+	"Essex County, MA"	"25009"	"1999"	"1999"	10	718629	Unreliable
+	"Essex County, MA"	"25009"	"2000"	"2000"	Suppressed	723419	Suppressed
+	"Essex County, MA"	"25009"	"2001"	"2001"	Suppressed	730206	Suppressed
+	"Essex County, MA"	"25009"	"2002"	"2002"	10	732232	Unreliable
+	"Essex County, MA"	"25009"	"2003"	"2003"	15	731544	Unreliable
+	"Essex County, MA"	"25009"	"2004"	"2004"	14	729783	Unreliable
+	"Essex County, MA"	"25009"	"2005"	"2005"	13	728877	Unreliable
+	"Essex County, MA"	"25009"	"2006"	"2006"	29	729455	3.976
+	"Essex County, MA"	"25009"	"2007"	"2007"	38	730664	5.201
+	"Essex County, MA"	"25009"	"2008"	"2008"	26	734361	3.540
+	"Essex County, MA"	"25009"	"2009"	"2009"	30	739086	4.059
+	"Essex County, MA"	"25009"	"2010"	"2010"	28	743159	3.768
+	"Essex County, MA"	"25009"	"2011"	"2011"	30	748930	4.006
+	"Essex County, MA"	"25009"	"2012"	"2012"	56	755618	7.411
+	"Essex County, MA"	"25009"	"2013"	"2013"	59	762550	7.737
+	"Essex County, MA"	"25009"	"2014"	"2014"	139	769091	18.073
+	"Essex County, MA"	"25009"	"2015"	"2015"	194	776043	24.999
+	"Essex County, MA"	"25009"	"2016"	"2016"	247	779018	31.707
+	"Essex County, MA"	"25009"	"2017"	"2017"	276	785205	35.150
+	"Franklin County, MA"	"25011"	"1999"	"1999"	Suppressed	71450	Suppressed
+	"Franklin County, MA"	"25011"	"2000"	"2000"	Suppressed	71535	Suppressed
+	"Franklin County, MA"	"25011"	"2001"	"2001"	Suppressed	71557	Suppressed
+	"Franklin County, MA"	"25011"	"2002"	"2002"	Suppressed	71761	Suppressed
+	"Franklin County, MA"	"25011"	"2003"	"2003"	Suppressed	71837	Suppressed
+	"Franklin County, MA"	"25011"	"2004"	"2004"	Suppressed	71875	Suppressed
+	"Franklin County, MA"	"25011"	"2005"	"2005"	Suppressed	71879	Suppressed
+	"Franklin County, MA"	"25011"	"2006"	"2006"	Suppressed	71708	Suppressed
+	"Franklin County, MA"	"25011"	"2007"	"2007"	Suppressed	71577	Suppressed
+	"Franklin County, MA"	"25011"	"2008"	"2008"	Suppressed	71571	Suppressed
+	"Franklin County, MA"	"25011"	"2009"	"2009"	Suppressed	71392	Suppressed
+	"Franklin County, MA"	"25011"	"2010"	"2010"	Suppressed	71372	Suppressed
+	"Franklin County, MA"	"25011"	"2011"	"2011"	Suppressed	71599	Suppressed
+	"Franklin County, MA"	"25011"	"2012"	"2012"	Suppressed	71540	Suppressed
+	"Franklin County, MA"	"25011"	"2013"	"2013"	Suppressed	71221	Suppressed
+	"Franklin County, MA"	"25011"	"2014"	"2014"	Suppressed	70862	Suppressed
+	"Franklin County, MA"	"25011"	"2015"	"2015"	16	70601	Unreliable
+	"Franklin County, MA"	"25011"	"2016"	"2016"	13	70382	Unreliable
+	"Franklin County, MA"	"25011"	"2017"	"2017"	Suppressed	70702	Suppressed
+	"Hampden County, MA"	"25013"	"1999"	"1999"	Suppressed	455391	Suppressed
+	"Hampden County, MA"	"25013"	"2000"	"2000"	Suppressed	456228	Suppressed
+	"Hampden County, MA"	"25013"	"2001"	"2001"	10	456557	Unreliable
+	"Hampden County, MA"	"25013"	"2002"	"2002"	18	458780	Unreliable
+	"Hampden County, MA"	"25013"	"2003"	"2003"	27	460673	5.861
+	"Hampden County, MA"	"25013"	"2004"	"2004"	Suppressed	460841	Suppressed
+	"Hampden County, MA"	"25013"	"2005"	"2005"	13	461147	Unreliable
+	"Hampden County, MA"	"25013"	"2006"	"2006"	20	461408	4.335
+	"Hampden County, MA"	"25013"	"2007"	"2007"	21	461434	4.551
+	"Hampden County, MA"	"25013"	"2008"	"2008"	21	462053	4.545
+	"Hampden County, MA"	"25013"	"2009"	"2009"	27	462777	5.834
+	"Hampden County, MA"	"25013"	"2010"	"2010"	28	463490	6.041
+	"Hampden County, MA"	"25013"	"2011"	"2011"	36	463783	7.762
+	"Hampden County, MA"	"25013"	"2012"	"2012"	47	465923	10.088
+	"Hampden County, MA"	"25013"	"2013"	"2013"	46	467319	9.843
+	"Hampden County, MA"	"25013"	"2014"	"2014"	44	468161	9.398
+	"Hampden County, MA"	"25013"	"2015"	"2015"	78	470690	16.571
+	"Hampden County, MA"	"25013"	"2016"	"2016"	122	468467	26.042
+	"Hampden County, MA"	"25013"	"2017"	"2017"	107	469818	22.775
+	"Hampshire County, MA"	"25015"	"1999"	"1999"	Suppressed	151756	Suppressed
+	"Hampshire County, MA"	"25015"	"2000"	"2000"	Suppressed	152251	Suppressed
+	"Hampshire County, MA"	"25015"	"2001"	"2001"	Suppressed	152518	Suppressed
+	"Hampshire County, MA"	"25015"	"2002"	"2002"	Suppressed	153461	Suppressed
+	"Hampshire County, MA"	"25015"	"2003"	"2003"	Suppressed	154621	Suppressed
+	"Hampshire County, MA"	"25015"	"2004"	"2004"	Suppressed	155019	Suppressed
+	"Hampshire County, MA"	"25015"	"2005"	"2005"	Suppressed	155383	Suppressed
+	"Hampshire County, MA"	"25015"	"2006"	"2006"	Suppressed	156168	Suppressed
+	"Hampshire County, MA"	"25015"	"2007"	"2007"	Suppressed	156842	Suppressed
+	"Hampshire County, MA"	"25015"	"2008"	"2008"	Suppressed	157615	Suppressed
+	"Hampshire County, MA"	"25015"	"2009"	"2009"	Suppressed	157910	Suppressed
+	"Hampshire County, MA"	"25015"	"2010"	"2010"	Suppressed	158080	Suppressed
+	"Hampshire County, MA"	"25015"	"2011"	"2011"	Suppressed	157822	Suppressed
+	"Hampshire County, MA"	"25015"	"2012"	"2012"	Suppressed	159795	Suppressed
+	"Hampshire County, MA"	"25015"	"2013"	"2013"	18	159596	Unreliable
+	"Hampshire County, MA"	"25015"	"2014"	"2014"	16	160939	Unreliable
+	"Hampshire County, MA"	"25015"	"2015"	"2015"	10	161292	Unreliable
+	"Hampshire County, MA"	"25015"	"2016"	"2016"	34	161816	21.012
+	"Hampshire County, MA"	"25015"	"2017"	"2017"	26	161834	16.066
+	"Middlesex County, MA"	"25017"	"1999"	"1999"	11	1459797	Unreliable
+	"Middlesex County, MA"	"25017"	"2000"	"2000"	Suppressed	1465396	Suppressed
+	"Middlesex County, MA"	"25017"	"2001"	"2001"	22	1473021	1.494
+	"Middlesex County, MA"	"25017"	"2002"	"2002"	16	1468488	Unreliable
+	"Middlesex County, MA"	"25017"	"2003"	"2003"	14	1464083	Unreliable
+	"Middlesex County, MA"	"25017"	"2004"	"2004"	12	1459232	Unreliable
+	"Middlesex County, MA"	"25017"	"2005"	"2005"	31	1454868	2.131
+	"Middlesex County, MA"	"25017"	"2006"	"2006"	47	1456528	3.227
+	"Middlesex County, MA"	"25017"	"2007"	"2007"	51	1463106	3.486
+	"Middlesex County, MA"	"25017"	"2008"	"2008"	30	1477049	2.031
+	"Middlesex County, MA"	"25017"	"2009"	"2009"	52	1494764	3.479
+	"Middlesex County, MA"	"25017"	"2010"	"2010"	54	1503085	3.593
+	"Middlesex County, MA"	"25017"	"2011"	"2011"	75	1518171	4.940
+	"Middlesex County, MA"	"25017"	"2012"	"2012"	71	1537215	4.619
+	"Middlesex County, MA"	"25017"	"2013"	"2013"	95	1552802	6.118
+	"Middlesex County, MA"	"25017"	"2014"	"2014"	194	1570315	12.354
+	"Middlesex County, MA"	"25017"	"2015"	"2015"	268	1585139	16.907
+	"Middlesex County, MA"	"25017"	"2016"	"2016"	371	1589774	23.337
+	"Middlesex County, MA"	"25017"	"2017"	"2017"	315	1602947	19.651
+	"Nantucket County, MA"	"25019"	"1999"	"1999"	Suppressed	9213	Suppressed
+	"Nantucket County, MA"	"25019"	"2000"	"2000"	Suppressed	9520	Suppressed
+	"Nantucket County, MA"	"25019"	"2001"	"2001"	Suppressed	9415	Suppressed
+	"Nantucket County, MA"	"25019"	"2002"	"2002"	Suppressed	9556	Suppressed
+	"Nantucket County, MA"	"25019"	"2003"	"2003"	Suppressed	9629	Suppressed
+	"Nantucket County, MA"	"25019"	"2004"	"2004"	Suppressed	9732	Suppressed
+	"Nantucket County, MA"	"25019"	"2005"	"2005"	Suppressed	9703	Suppressed
+	"Nantucket County, MA"	"25019"	"2006"	"2006"	Suppressed	9811	Suppressed
+	"Nantucket County, MA"	"25019"	"2007"	"2007"	Suppressed	9985	Suppressed
+	"Nantucket County, MA"	"25019"	"2008"	"2008"	Suppressed	10170	Suppressed
+	"Nantucket County, MA"	"25019"	"2009"	"2009"	Suppressed	10225	Suppressed
+	"Nantucket County, MA"	"25019"	"2010"	"2010"	Suppressed	10172	Suppressed
+	"Nantucket County, MA"	"25019"	"2011"	"2011"	Suppressed	10142	Suppressed
+	"Nantucket County, MA"	"25019"	"2012"	"2012"	Suppressed	10298	Suppressed
+	"Nantucket County, MA"	"25019"	"2013"	"2013"	Suppressed	10399	Suppressed
+	"Nantucket County, MA"	"25019"	"2014"	"2014"	Suppressed	10856	Suppressed
+	"Nantucket County, MA"	"25019"	"2015"	"2015"	Suppressed	10925	Suppressed
+	"Nantucket County, MA"	"25019"	"2016"	"2016"	Suppressed	11008	Suppressed
+	"Nantucket County, MA"	"25019"	"2017"	"2017"	Suppressed	11229	Suppressed
+	"Norfolk County, MA"	"25021"	"1999"	"1999"	Suppressed	648262	Suppressed
+	"Norfolk County, MA"	"25021"	"2000"	"2000"	Suppressed	650308	Suppressed
+	"Norfolk County, MA"	"25021"	"2001"	"2001"	Suppressed	653137	Suppressed
+	"Norfolk County, MA"	"25021"	"2002"	"2002"	Suppressed	653860	Suppressed
+	"Norfolk County, MA"	"25021"	"2003"	"2003"	Suppressed	653032	Suppressed
+	"Norfolk County, MA"	"25021"	"2004"	"2004"	14	652630	Unreliable
+	"Norfolk County, MA"	"25021"	"2005"	"2005"	14	651538	Unreliable
+	"Norfolk County, MA"	"25021"	"2006"	"2006"	17	653421	Unreliable
+	"Norfolk County, MA"	"25021"	"2007"	"2007"	30	656582	4.569
+	"Norfolk County, MA"	"25021"	"2008"	"2008"	30	661703	4.534
+	"Norfolk County, MA"	"25021"	"2009"	"2009"	30	666301	4.502
+	"Norfolk County, MA"	"25021"	"2010"	"2010"	32	670850	4.770
+	"Norfolk County, MA"	"25021"	"2011"	"2011"	38	675436	5.626
+	"Norfolk County, MA"	"25021"	"2012"	"2012"	39	681845	5.720
+	"Norfolk County, MA"	"25021"	"2013"	"2013"	45	687802	6.543
+	"Norfolk County, MA"	"25021"	"2014"	"2014"	97	692254	14.012
+	"Norfolk County, MA"	"25021"	"2015"	"2015"	136	696023	19.540
+	"Norfolk County, MA"	"25021"	"2016"	"2016"	196	697181	28.113
+	"Norfolk County, MA"	"25021"	"2017"	"2017"	154	700322	21.990
+	"Plymouth County, MA"	"25023"	"1999"	"1999"	Suppressed	469065	Suppressed
+	"Plymouth County, MA"	"25023"	"2000"	"2000"	Suppressed	472822	Suppressed
+	"Plymouth County, MA"	"25023"	"2001"	"2001"	Suppressed	478222	Suppressed
+	"Plymouth County, MA"	"25023"	"2002"	"2002"	Suppressed	482092	Suppressed
+	"Plymouth County, MA"	"25023"	"2003"	"2003"	10	484245	Unreliable
+	"Plymouth County, MA"	"25023"	"2004"	"2004"	11	485010	Unreliable
+	"Plymouth County, MA"	"25023"	"2005"	"2005"	Suppressed	486292	Suppressed
+	"Plymouth County, MA"	"25023"	"2006"	"2006"	25	486779	5.136
+	"Plymouth County, MA"	"25023"	"2007"	"2007"	27	488251	5.530
+	"Plymouth County, MA"	"25023"	"2008"	"2008"	20	490371	4.079
+	"Plymouth County, MA"	"25023"	"2009"	"2009"	18	492738	Unreliable
+	"Plymouth County, MA"	"25023"	"2010"	"2010"	22	494919	4.445
+	"Plymouth County, MA"	"25023"	"2011"	"2011"	23	497579	4.622
+	"Plymouth County, MA"	"25023"	"2012"	"2012"	35	499759	7.003
+	"Plymouth County, MA"	"25023"	"2013"	"2013"	48	501915	9.563
+	"Plymouth County, MA"	"25023"	"2014"	"2014"	77	507022	15.187
+	"Plymouth County, MA"	"25023"	"2015"	"2015"	142	510393	27.822
+	"Plymouth County, MA"	"25023"	"2016"	"2016"	178	513565	34.660
+	"Plymouth County, MA"	"25023"	"2017"	"2017"	184	515142	35.718
+	"Suffolk County, MA"	"25025"	"1999"	"1999"	Suppressed	689109	Suppressed
+	"Suffolk County, MA"	"25025"	"2000"	"2000"	Suppressed	689807	Suppressed
+	"Suffolk County, MA"	"25025"	"2001"	"2001"	Suppressed	700232	Suppressed
+	"Suffolk County, MA"	"25025"	"2002"	"2002"	10	701333	Unreliable
+	"Suffolk County, MA"	"25025"	"2003"	"2003"	14	697080	Unreliable
+	"Suffolk County, MA"	"25025"	"2004"	"2004"	16	691272	Unreliable
+	"Suffolk County, MA"	"25025"	"2005"	"2005"	17	686600	Unreliable
+	"Suffolk County, MA"	"25025"	"2006"	"2006"	40	687192	5.821
+	"Suffolk County, MA"	"25025"	"2007"	"2007"	38	693368	5.480
+	"Suffolk County, MA"	"25025"	"2008"	"2008"	28	702201	3.987
+	"Suffolk County, MA"	"25025"	"2009"	"2009"	32	716214	4.468
+	"Suffolk County, MA"	"25025"	"2010"	"2010"	31	722023	4.293
+	"Suffolk County, MA"	"25025"	"2011"	"2011"	33	730932	4.515
+	"Suffolk County, MA"	"25025"	"2012"	"2012"	68	744426	9.135
+	"Suffolk County, MA"	"25025"	"2013"	"2013"	70	755503	9.265
+	"Suffolk County, MA"	"25025"	"2014"	"2014"	95	767254	12.382
+	"Suffolk County, MA"	"25025"	"2015"	"2015"	164	778121	21.076
+	"Suffolk County, MA"	"25025"	"2016"	"2016"	220	784230	28.053
+	"Suffolk County, MA"	"25025"	"2017"	"2017"	230	797939	28.824
+	"Worcester County, MA"	"25027"	"1999"	"1999"	Suppressed	744571	Suppressed
+	"Worcester County, MA"	"25027"	"2000"	"2000"	10	750963	Unreliable
+	"Worcester County, MA"	"25027"	"2001"	"2001"	Suppressed	761211	Suppressed
+	"Worcester County, MA"	"25027"	"2002"	"2002"	12	768490	Unreliable
+	"Worcester County, MA"	"25027"	"2003"	"2003"	10	774476	Unreliable
+	"Worcester County, MA"	"25027"	"2004"	"2004"	Suppressed	777855	Suppressed
+	"Worcester County, MA"	"25027"	"2005"	"2005"	14	781265	Unreliable
+	"Worcester County, MA"	"25027"	"2006"	"2006"	27	785345	3.438
+	"Worcester County, MA"	"25027"	"2007"	"2007"	32	788280	4.059
+	"Worcester County, MA"	"25027"	"2008"	"2008"	29	790847	3.667
+	"Worcester County, MA"	"25027"	"2009"	"2009"	23	795251	2.892
+	"Worcester County, MA"	"25027"	"2010"	"2010"	39	798552	4.884
+	"Worcester County, MA"	"25027"	"2011"	"2011"	50	801227	6.240
+	"Worcester County, MA"	"25027"	"2012"	"2012"	52	806163	6.450
+	"Worcester County, MA"	"25027"	"2013"	"2013"	51	809106	6.303
+	"Worcester County, MA"	"25027"	"2014"	"2014"	84	813475	10.326
+	"Worcester County, MA"	"25027"	"2015"	"2015"	173	818963	21.124
+	"Worcester County, MA"	"25027"	"2016"	"2016"	181	819589	22.084
+	"Worcester County, MA"	"25027"	"2017"	"2017"	228	826116	27.599
+"---"
+"Dataset: Multiple Cause of Death, 1999-2017"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.1 (Heroin); T40.2 (Other opioids); T40.4 (Other synthetic narcotics)"
+"States: Massachusetts (25)"
+"UCD - Drug/Alcohol Induced Causes: Drug poisonings (overdose) Unintentional (X40-X44); Drug poisonings (overdose) Suicide"
+"(X60-X64); Drug poisonings (overdose) Undetermined (Y10-Y14)"
+"Group By: County; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Sep 14, 2019 9:49:53 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Sep 14, 2019 9:49:53 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"4. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017"
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for"
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS"
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The"
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal"
+"series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1 resident"
+"population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"6. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
