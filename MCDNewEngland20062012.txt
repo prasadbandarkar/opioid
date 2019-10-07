@@ -1,0 +1,524 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Fairfield County, CT"	"09001"	"2006"	"2006"	48	896254	5.36
+	"Fairfield County, CT"	"09001"	"2007"	"2007"	46	897498	5.13
+	"Fairfield County, CT"	"09001"	"2008"	"2008"	49	903824	5.42
+	"Fairfield County, CT"	"09001"	"2009"	"2009"	45	910421	4.94
+	"Fairfield County, CT"	"09001"	"2010"	"2010"	32	916829	3.49
+	"Fairfield County, CT"	"09001"	"2011"	"2011"	29	925899	3.13
+	"Fairfield County, CT"	"09001"	"2012"	"2012"	37	933835	3.96
+	"Hartford County, CT"	"09003"	"2006"	"2006"	57	881298	6.47
+	"Hartford County, CT"	"09003"	"2007"	"2007"	62	884548	7.01
+	"Hartford County, CT"	"09003"	"2008"	"2008"	54	887891	6.08
+	"Hartford County, CT"	"09003"	"2009"	"2009"	47	891667	5.27
+	"Hartford County, CT"	"09003"	"2010"	"2010"	48	894014	5.37
+	"Hartford County, CT"	"09003"	"2011"	"2011"	49	894705	5.48
+	"Hartford County, CT"	"09003"	"2012"	"2012"	47	897259	5.24
+	"Litchfield County, CT"	"09005"	"2006"	"2006"	13	189682	Unreliable
+	"Litchfield County, CT"	"09005"	"2007"	"2007"	18	189866	Unreliable
+	"Litchfield County, CT"	"09005"	"2008"	"2008"	13	190175	Unreliable
+	"Litchfield County, CT"	"09005"	"2009"	"2009"	16	190015	Unreliable
+	"Litchfield County, CT"	"09005"	"2010"	"2010"	16	189927	Unreliable
+	"Litchfield County, CT"	"09005"	"2011"	"2011"	Suppressed	188789	Suppressed
+	"Litchfield County, CT"	"09005"	"2012"	"2012"	12	187530	Unreliable
+	"Middlesex County, CT"	"09007"	"2006"	"2006"	Suppressed	163473	Suppressed
+	"Middlesex County, CT"	"09007"	"2007"	"2007"	14	164129	Unreliable
+	"Middlesex County, CT"	"09007"	"2008"	"2008"	14	164962	Unreliable
+	"Middlesex County, CT"	"09007"	"2009"	"2009"	Suppressed	165607	Suppressed
+	"Middlesex County, CT"	"09007"	"2010"	"2010"	15	165676	Unreliable
+	"Middlesex County, CT"	"09007"	"2011"	"2011"	11	166043	Unreliable
+	"Middlesex County, CT"	"09007"	"2012"	"2012"	10	165602	Unreliable
+	"New Haven County, CT"	"09009"	"2006"	"2006"	71	850207	8.35
+	"New Haven County, CT"	"09009"	"2007"	"2007"	70	853598	8.20
+	"New Haven County, CT"	"09009"	"2008"	"2008"	65	856622	7.59
+	"New Haven County, CT"	"09009"	"2009"	"2009"	58	860025	6.74
+	"New Haven County, CT"	"09009"	"2010"	"2010"	70	862477	8.12
+	"New Haven County, CT"	"09009"	"2011"	"2011"	65	861113	7.55
+	"New Haven County, CT"	"09009"	"2012"	"2012"	43	862813	4.98
+	"New London County, CT"	"09011"	"2006"	"2006"	12	270814	Unreliable
+	"New London County, CT"	"09011"	"2007"	"2007"	14	270669	Unreliable
+	"New London County, CT"	"09011"	"2008"	"2008"	16	272634	Unreliable
+	"New London County, CT"	"09011"	"2009"	"2009"	23	273630	8.41
+	"New London County, CT"	"09011"	"2010"	"2010"	19	274055	Unreliable
+	"New London County, CT"	"09011"	"2011"	"2011"	22	273502	8.04
+	"New London County, CT"	"09011"	"2012"	"2012"	31	274170	11.31
+	"Tolland County, CT"	"09013"	"2006"	"2006"	Suppressed	148954	Suppressed
+	"Tolland County, CT"	"09013"	"2007"	"2007"	Suppressed	149718	Suppressed
+	"Tolland County, CT"	"09013"	"2008"	"2008"	Suppressed	151583	Suppressed
+	"Tolland County, CT"	"09013"	"2009"	"2009"	10	152330	Unreliable
+	"Tolland County, CT"	"09013"	"2010"	"2010"	Suppressed	152691	Suppressed
+	"Tolland County, CT"	"09013"	"2011"	"2011"	Suppressed	152507	Suppressed
+	"Tolland County, CT"	"09013"	"2012"	"2012"	Suppressed	151539	Suppressed
+	"Windham County, CT"	"09015"	"2006"	"2006"	10	116778	Unreliable
+	"Windham County, CT"	"09015"	"2007"	"2007"	Suppressed	117244	Suppressed
+	"Windham County, CT"	"09015"	"2008"	"2008"	Suppressed	117888	Suppressed
+	"Windham County, CT"	"09015"	"2009"	"2009"	Suppressed	118112	Suppressed
+	"Windham County, CT"	"09015"	"2010"	"2010"	10	118428	Unreliable
+	"Windham County, CT"	"09015"	"2011"	"2011"	Suppressed	118151	Suppressed
+	"Windham County, CT"	"09015"	"2012"	"2012"	Suppressed	117599	Suppressed
+	"Androscoggin County, ME"	"23001"	"2006"	"2006"	Suppressed	107932	Suppressed
+	"Androscoggin County, ME"	"23001"	"2007"	"2007"	Suppressed	107739	Suppressed
+	"Androscoggin County, ME"	"23001"	"2008"	"2008"	Suppressed	108284	Suppressed
+	"Androscoggin County, ME"	"23001"	"2009"	"2009"	10	107830	Unreliable
+	"Androscoggin County, ME"	"23001"	"2010"	"2010"	11	107702	Unreliable
+	"Androscoggin County, ME"	"23001"	"2011"	"2011"	Suppressed	107398	Suppressed
+	"Androscoggin County, ME"	"23001"	"2012"	"2012"	Suppressed	107609	Suppressed
+	"Aroostook County, ME"	"23003"	"2006"	"2006"	Suppressed	72827	Suppressed
+	"Aroostook County, ME"	"23003"	"2007"	"2007"	Suppressed	72711	Suppressed
+	"Aroostook County, ME"	"23003"	"2008"	"2008"	Suppressed	72542	Suppressed
+	"Aroostook County, ME"	"23003"	"2009"	"2009"	Suppressed	72258	Suppressed
+	"Aroostook County, ME"	"23003"	"2010"	"2010"	Suppressed	71870	Suppressed
+	"Aroostook County, ME"	"23003"	"2011"	"2011"	Suppressed	71482	Suppressed
+	"Aroostook County, ME"	"23003"	"2012"	"2012"	Suppressed	70868	Suppressed
+	"Cumberland County, ME"	"23005"	"2006"	"2006"	13	277084	Unreliable
+	"Cumberland County, ME"	"23005"	"2007"	"2007"	22	278781	7.89
+	"Cumberland County, ME"	"23005"	"2008"	"2008"	26	280681	9.26
+	"Cumberland County, ME"	"23005"	"2009"	"2009"	23	281969	8.16
+	"Cumberland County, ME"	"23005"	"2010"	"2010"	14	281674	Unreliable
+	"Cumberland County, ME"	"23005"	"2011"	"2011"	10	282401	Unreliable
+	"Cumberland County, ME"	"23005"	"2012"	"2012"	26	283921	9.16
+	"Franklin County, ME"	"23007"	"2006"	"2006"	Suppressed	30528	Suppressed
+	"Franklin County, ME"	"23007"	"2007"	"2007"	Suppressed	30596	Suppressed
+	"Franklin County, ME"	"23007"	"2008"	"2008"	Suppressed	30652	Suppressed
+	"Franklin County, ME"	"23007"	"2009"	"2009"	Suppressed	30779	Suppressed
+	"Franklin County, ME"	"23007"	"2010"	"2010"	Suppressed	30768	Suppressed
+	"Franklin County, ME"	"23007"	"2011"	"2011"	Suppressed	30746	Suppressed
+	"Franklin County, ME"	"23007"	"2012"	"2012"	Suppressed	30630	Suppressed
+	"Hancock County, ME"	"23009"	"2006"	"2006"	Suppressed	54009	Suppressed
+	"Hancock County, ME"	"23009"	"2007"	"2007"	Suppressed	54300	Suppressed
+	"Hancock County, ME"	"23009"	"2008"	"2008"	Suppressed	54371	Suppressed
+	"Hancock County, ME"	"23009"	"2009"	"2009"	Suppressed	54499	Suppressed
+	"Hancock County, ME"	"23009"	"2010"	"2010"	Suppressed	54418	Suppressed
+	"Hancock County, ME"	"23009"	"2011"	"2011"	Suppressed	54578	Suppressed
+	"Hancock County, ME"	"23009"	"2012"	"2012"	Suppressed	54558	Suppressed
+	"Kennebec County, ME"	"23011"	"2006"	"2006"	14	121508	Unreliable
+	"Kennebec County, ME"	"23011"	"2007"	"2007"	13	121741	Unreliable
+	"Kennebec County, ME"	"23011"	"2008"	"2008"	Suppressed	122147	Suppressed
+	"Kennebec County, ME"	"23011"	"2009"	"2009"	Suppressed	122084	Suppressed
+	"Kennebec County, ME"	"23011"	"2010"	"2010"	Suppressed	122151	Suppressed
+	"Kennebec County, ME"	"23011"	"2011"	"2011"	12	121935	Unreliable
+	"Kennebec County, ME"	"23011"	"2012"	"2012"	Suppressed	121853	Suppressed
+	"Knox County, ME"	"23013"	"2006"	"2006"	Suppressed	40417	Suppressed
+	"Knox County, ME"	"23013"	"2007"	"2007"	Suppressed	40297	Suppressed
+	"Knox County, ME"	"23013"	"2008"	"2008"	Suppressed	40225	Suppressed
+	"Knox County, ME"	"23013"	"2009"	"2009"	Suppressed	39924	Suppressed
+	"Knox County, ME"	"23013"	"2010"	"2010"	Suppressed	39736	Suppressed
+	"Knox County, ME"	"23013"	"2011"	"2011"	Suppressed	39708	Suppressed
+	"Knox County, ME"	"23013"	"2012"	"2012"	Suppressed	39668	Suppressed
+	"Lincoln County, ME"	"23015"	"2006"	"2006"	Suppressed	34904	Suppressed
+	"Lincoln County, ME"	"23015"	"2007"	"2007"	Suppressed	34899	Suppressed
+	"Lincoln County, ME"	"23015"	"2008"	"2008"	Suppressed	34768	Suppressed
+	"Lincoln County, ME"	"23015"	"2009"	"2009"	Suppressed	34627	Suppressed
+	"Lincoln County, ME"	"23015"	"2010"	"2010"	Suppressed	34457	Suppressed
+	"Lincoln County, ME"	"23015"	"2011"	"2011"	Suppressed	34224	Suppressed
+	"Lincoln County, ME"	"23015"	"2012"	"2012"	Suppressed	34180	Suppressed
+	"Oxford County, ME"	"23017"	"2006"	"2006"	Suppressed	57556	Suppressed
+	"Oxford County, ME"	"23017"	"2007"	"2007"	Suppressed	57966	Suppressed
+	"Oxford County, ME"	"23017"	"2008"	"2008"	Suppressed	58138	Suppressed
+	"Oxford County, ME"	"23017"	"2009"	"2009"	Suppressed	57923	Suppressed
+	"Oxford County, ME"	"23017"	"2010"	"2010"	Suppressed	57833	Suppressed
+	"Oxford County, ME"	"23017"	"2011"	"2011"	Suppressed	57695	Suppressed
+	"Oxford County, ME"	"23017"	"2012"	"2012"	Suppressed	57481	Suppressed
+	"Penobscot County, ME"	"23019"	"2006"	"2006"	17	151446	Unreliable
+	"Penobscot County, ME"	"23019"	"2007"	"2007"	10	152232	Unreliable
+	"Penobscot County, ME"	"23019"	"2008"	"2008"	12	153372	Unreliable
+	"Penobscot County, ME"	"23019"	"2009"	"2009"	13	153770	Unreliable
+	"Penobscot County, ME"	"23019"	"2010"	"2010"	Suppressed	153923	Suppressed
+	"Penobscot County, ME"	"23019"	"2011"	"2011"	11	153786	Unreliable
+	"Penobscot County, ME"	"23019"	"2012"	"2012"	Suppressed	153746	Suppressed
+	"Piscataquis County, ME"	"23021"	"2006"	"2006"	Suppressed	17597	Suppressed
+	"Piscataquis County, ME"	"23021"	"2007"	"2007"	Suppressed	17660	Suppressed
+	"Piscataquis County, ME"	"23021"	"2008"	"2008"	Suppressed	17534	Suppressed
+	"Piscataquis County, ME"	"23021"	"2009"	"2009"	Suppressed	17433	Suppressed
+	"Piscataquis County, ME"	"23021"	"2010"	"2010"	Suppressed	17535	Suppressed
+	"Piscataquis County, ME"	"23021"	"2011"	"2011"	Suppressed	17419	Suppressed
+	"Piscataquis County, ME"	"23021"	"2012"	"2012"	Suppressed	17290	Suppressed
+	"Sagadahoc County, ME"	"23023"	"2006"	"2006"	Suppressed	35895	Suppressed
+	"Sagadahoc County, ME"	"23023"	"2007"	"2007"	Suppressed	35890	Suppressed
+	"Sagadahoc County, ME"	"23023"	"2008"	"2008"	Suppressed	35860	Suppressed
+	"Sagadahoc County, ME"	"23023"	"2009"	"2009"	Suppressed	35567	Suppressed
+	"Sagadahoc County, ME"	"23023"	"2010"	"2010"	Suppressed	35293	Suppressed
+	"Sagadahoc County, ME"	"23023"	"2011"	"2011"	Suppressed	35207	Suppressed
+	"Sagadahoc County, ME"	"23023"	"2012"	"2012"	Suppressed	35191	Suppressed
+	"Somerset County, ME"	"23025"	"2006"	"2006"	Suppressed	52195	Suppressed
+	"Somerset County, ME"	"23025"	"2007"	"2007"	Suppressed	52459	Suppressed
+	"Somerset County, ME"	"23025"	"2008"	"2008"	Suppressed	52316	Suppressed
+	"Somerset County, ME"	"23025"	"2009"	"2009"	Suppressed	52104	Suppressed
+	"Somerset County, ME"	"23025"	"2010"	"2010"	Suppressed	52228	Suppressed
+	"Somerset County, ME"	"23025"	"2011"	"2011"	Suppressed	52028	Suppressed
+	"Somerset County, ME"	"23025"	"2012"	"2012"	Suppressed	51910	Suppressed
+	"Waldo County, ME"	"23027"	"2006"	"2006"	Suppressed	38763	Suppressed
+	"Waldo County, ME"	"23027"	"2007"	"2007"	Suppressed	38751	Suppressed
+	"Waldo County, ME"	"23027"	"2008"	"2008"	Suppressed	38680	Suppressed
+	"Waldo County, ME"	"23027"	"2009"	"2009"	Suppressed	38706	Suppressed
+	"Waldo County, ME"	"23027"	"2010"	"2010"	Suppressed	38786	Suppressed
+	"Waldo County, ME"	"23027"	"2011"	"2011"	Suppressed	38745	Suppressed
+	"Waldo County, ME"	"23027"	"2012"	"2012"	Suppressed	38820	Suppressed
+	"Washington County, ME"	"23029"	"2006"	"2006"	Suppressed	33323	Suppressed
+	"Washington County, ME"	"23029"	"2007"	"2007"	Suppressed	33424	Suppressed
+	"Washington County, ME"	"23029"	"2008"	"2008"	Suppressed	33289	Suppressed
+	"Washington County, ME"	"23029"	"2009"	"2009"	Suppressed	32925	Suppressed
+	"Washington County, ME"	"23029"	"2010"	"2010"	Suppressed	32856	Suppressed
+	"Washington County, ME"	"23029"	"2011"	"2011"	Suppressed	32637	Suppressed
+	"Washington County, ME"	"23029"	"2012"	"2012"	Suppressed	32462	Suppressed
+	"York County, ME"	"23031"	"2006"	"2006"	17	197635	Unreliable
+	"York County, ME"	"23031"	"2007"	"2007"	15	197594	Unreliable
+	"York County, ME"	"23031"	"2008"	"2008"	16	197650	Unreliable
+	"York County, ME"	"23031"	"2009"	"2009"	19	197192	Unreliable
+	"York County, ME"	"23031"	"2010"	"2010"	15	197131	Unreliable
+	"York County, ME"	"23031"	"2011"	"2011"	10	198199	Unreliable
+	"York County, ME"	"23031"	"2012"	"2012"	17	199005	Unreliable
+	"Barnstable County, MA"	"25001"	"2006"	"2006"	22	220037	10.00
+	"Barnstable County, MA"	"25001"	"2007"	"2007"	29	218380	13.28
+	"Barnstable County, MA"	"25001"	"2008"	"2008"	22	217066	10.14
+	"Barnstable County, MA"	"25001"	"2009"	"2009"	20	215994	9.26
+	"Barnstable County, MA"	"25001"	"2010"	"2010"	20	215888	9.26
+	"Barnstable County, MA"	"25001"	"2011"	"2011"	16	215769	Unreliable
+	"Barnstable County, MA"	"25001"	"2012"	"2012"	19	215423	Unreliable
+	"Berkshire County, MA"	"25003"	"2006"	"2006"	Suppressed	131977	Suppressed
+	"Berkshire County, MA"	"25003"	"2007"	"2007"	Suppressed	131883	Suppressed
+	"Berkshire County, MA"	"25003"	"2008"	"2008"	Suppressed	131372	Suppressed
+	"Berkshire County, MA"	"25003"	"2009"	"2009"	Suppressed	131264	Suppressed
+	"Berkshire County, MA"	"25003"	"2010"	"2010"	Suppressed	131219	Suppressed
+	"Berkshire County, MA"	"25003"	"2011"	"2011"	Suppressed	130458	Suppressed
+	"Berkshire County, MA"	"25003"	"2012"	"2012"	13	130016	Unreliable
+	"Bristol County, MA"	"25005"	"2006"	"2006"	84	544487	15.43
+	"Bristol County, MA"	"25005"	"2007"	"2007"	61	545288	11.19
+	"Bristol County, MA"	"25005"	"2008"	"2008"	77	546456	14.09
+	"Bristol County, MA"	"25005"	"2009"	"2009"	61	547324	11.15
+	"Bristol County, MA"	"25005"	"2010"	"2010"	75	548285	13.68
+	"Bristol County, MA"	"25005"	"2011"	"2011"	75	548922	13.66
+	"Bristol County, MA"	"25005"	"2012"	"2012"	94	551082	17.06
+	"Dukes County, MA"	"25007"	"2006"	"2006"	Suppressed	15768	Suppressed
+	"Dukes County, MA"	"25007"	"2007"	"2007"	Suppressed	15919	Suppressed
+	"Dukes County, MA"	"25007"	"2008"	"2008"	Suppressed	16132	Suppressed
+	"Dukes County, MA"	"25007"	"2009"	"2009"	Suppressed	16373	Suppressed
+	"Dukes County, MA"	"25007"	"2010"	"2010"	Suppressed	16535	Suppressed
+	"Dukes County, MA"	"25007"	"2011"	"2011"	Suppressed	16766	Suppressed
+	"Dukes County, MA"	"25007"	"2012"	"2012"	Suppressed	17041	Suppressed
+	"Essex County, MA"	"25009"	"2006"	"2006"	84	729455	11.52
+	"Essex County, MA"	"25009"	"2007"	"2007"	87	730664	11.91
+	"Essex County, MA"	"25009"	"2008"	"2008"	52	734361	7.08
+	"Essex County, MA"	"25009"	"2009"	"2009"	68	739086	9.20
+	"Essex County, MA"	"25009"	"2010"	"2010"	46	743159	6.19
+	"Essex County, MA"	"25009"	"2011"	"2011"	55	748930	7.34
+	"Essex County, MA"	"25009"	"2012"	"2012"	83	755618	10.98
+	"Franklin County, MA"	"25011"	"2006"	"2006"	Suppressed	71708	Suppressed
+	"Franklin County, MA"	"25011"	"2007"	"2007"	Suppressed	71577	Suppressed
+	"Franklin County, MA"	"25011"	"2008"	"2008"	Suppressed	71571	Suppressed
+	"Franklin County, MA"	"25011"	"2009"	"2009"	Suppressed	71392	Suppressed
+	"Franklin County, MA"	"25011"	"2010"	"2010"	Suppressed	71372	Suppressed
+	"Franklin County, MA"	"25011"	"2011"	"2011"	Suppressed	71599	Suppressed
+	"Franklin County, MA"	"25011"	"2012"	"2012"	Suppressed	71540	Suppressed
+	"Hampden County, MA"	"25013"	"2006"	"2006"	44	461408	9.54
+	"Hampden County, MA"	"25013"	"2007"	"2007"	41	461434	8.89
+	"Hampden County, MA"	"25013"	"2008"	"2008"	41	462053	8.87
+	"Hampden County, MA"	"25013"	"2009"	"2009"	44	462777	9.51
+	"Hampden County, MA"	"25013"	"2010"	"2010"	45	463490	9.71
+	"Hampden County, MA"	"25013"	"2011"	"2011"	43	463783	9.27
+	"Hampden County, MA"	"25013"	"2012"	"2012"	49	465923	10.52
+	"Hampshire County, MA"	"25015"	"2006"	"2006"	10	156168	Unreliable
+	"Hampshire County, MA"	"25015"	"2007"	"2007"	13	156842	Unreliable
+	"Hampshire County, MA"	"25015"	"2008"	"2008"	10	157615	Unreliable
+	"Hampshire County, MA"	"25015"	"2009"	"2009"	Suppressed	157910	Suppressed
+	"Hampshire County, MA"	"25015"	"2010"	"2010"	10	158080	Unreliable
+	"Hampshire County, MA"	"25015"	"2011"	"2011"	Suppressed	157822	Suppressed
+	"Hampshire County, MA"	"25015"	"2012"	"2012"	10	159795	Unreliable
+	"Middlesex County, MA"	"25017"	"2006"	"2006"	108	1456528	7.41
+	"Middlesex County, MA"	"25017"	"2007"	"2007"	103	1463106	7.04
+	"Middlesex County, MA"	"25017"	"2008"	"2008"	104	1477049	7.04
+	"Middlesex County, MA"	"25017"	"2009"	"2009"	112	1494764	7.49
+	"Middlesex County, MA"	"25017"	"2010"	"2010"	87	1503085	5.79
+	"Middlesex County, MA"	"25017"	"2011"	"2011"	122	1518171	8.04
+	"Middlesex County, MA"	"25017"	"2012"	"2012"	99	1537215	6.44
+	"Nantucket County, MA"	"25019"	"2006"	"2006"	Suppressed	9811	Suppressed
+	"Nantucket County, MA"	"25019"	"2007"	"2007"	Suppressed	9985	Suppressed
+	"Nantucket County, MA"	"25019"	"2008"	"2008"	Suppressed	10170	Suppressed
+	"Nantucket County, MA"	"25019"	"2009"	"2009"	Suppressed	10225	Suppressed
+	"Nantucket County, MA"	"25019"	"2010"	"2010"	Suppressed	10172	Suppressed
+	"Nantucket County, MA"	"25019"	"2011"	"2011"	Suppressed	10142	Suppressed
+	"Nantucket County, MA"	"25019"	"2012"	"2012"	Suppressed	10298	Suppressed
+	"Norfolk County, MA"	"25021"	"2006"	"2006"	47	653421	7.19
+	"Norfolk County, MA"	"25021"	"2007"	"2007"	53	656582	8.07
+	"Norfolk County, MA"	"25021"	"2008"	"2008"	66	661703	9.97
+	"Norfolk County, MA"	"25021"	"2009"	"2009"	64	666301	9.61
+	"Norfolk County, MA"	"25021"	"2010"	"2010"	53	670850	7.90
+	"Norfolk County, MA"	"25021"	"2011"	"2011"	59	675436	8.74
+	"Norfolk County, MA"	"25021"	"2012"	"2012"	60	681845	8.80
+	"Plymouth County, MA"	"25023"	"2006"	"2006"	48	486779	9.86
+	"Plymouth County, MA"	"25023"	"2007"	"2007"	51	488251	10.45
+	"Plymouth County, MA"	"25023"	"2008"	"2008"	45	490371	9.18
+	"Plymouth County, MA"	"25023"	"2009"	"2009"	47	492738	9.54
+	"Plymouth County, MA"	"25023"	"2010"	"2010"	38	494919	7.68
+	"Plymouth County, MA"	"25023"	"2011"	"2011"	61	497579	12.26
+	"Plymouth County, MA"	"25023"	"2012"	"2012"	53	499759	10.61
+	"Suffolk County, MA"	"25025"	"2006"	"2006"	106	687192	15.43
+	"Suffolk County, MA"	"25025"	"2007"	"2007"	102	693368	14.71
+	"Suffolk County, MA"	"25025"	"2008"	"2008"	66	702201	9.40
+	"Suffolk County, MA"	"25025"	"2009"	"2009"	92	716214	12.85
+	"Suffolk County, MA"	"25025"	"2010"	"2010"	60	722023	8.31
+	"Suffolk County, MA"	"25025"	"2011"	"2011"	79	730932	10.81
+	"Suffolk County, MA"	"25025"	"2012"	"2012"	80	744426	10.75
+	"Worcester County, MA"	"25027"	"2006"	"2006"	72	785345	9.17
+	"Worcester County, MA"	"25027"	"2007"	"2007"	70	788280	8.88
+	"Worcester County, MA"	"25027"	"2008"	"2008"	72	790847	9.10
+	"Worcester County, MA"	"25027"	"2009"	"2009"	63	795251	7.92
+	"Worcester County, MA"	"25027"	"2010"	"2010"	78	798552	9.77
+	"Worcester County, MA"	"25027"	"2011"	"2011"	81	801227	10.11
+	"Worcester County, MA"	"25027"	"2012"	"2012"	79	806163	9.80
+	"Belknap County, NH"	"33001"	"2006"	"2006"	Suppressed	60105	Suppressed
+	"Belknap County, NH"	"33001"	"2007"	"2007"	12	60109	Unreliable
+	"Belknap County, NH"	"33001"	"2008"	"2008"	10	60239	Unreliable
+	"Belknap County, NH"	"33001"	"2009"	"2009"	Suppressed	60171	Suppressed
+	"Belknap County, NH"	"33001"	"2010"	"2010"	Suppressed	60088	Suppressed
+	"Belknap County, NH"	"33001"	"2011"	"2011"	Suppressed	60223	Suppressed
+	"Belknap County, NH"	"33001"	"2012"	"2012"	Suppressed	60327	Suppressed
+	"Carroll County, NH"	"33003"	"2006"	"2006"	Suppressed	47421	Suppressed
+	"Carroll County, NH"	"33003"	"2007"	"2007"	12	47829	Unreliable
+	"Carroll County, NH"	"33003"	"2008"	"2008"	Suppressed	48013	Suppressed
+	"Carroll County, NH"	"33003"	"2009"	"2009"	Suppressed	47763	Suppressed
+	"Carroll County, NH"	"33003"	"2010"	"2010"	Suppressed	47818	Suppressed
+	"Carroll County, NH"	"33003"	"2011"	"2011"	Suppressed	47641	Suppressed
+	"Carroll County, NH"	"33003"	"2012"	"2012"	Suppressed	47567	Suppressed
+	"Cheshire County, NH"	"33005"	"2006"	"2006"	Suppressed	77658	Suppressed
+	"Cheshire County, NH"	"33005"	"2007"	"2007"	Suppressed	77745	Suppressed
+	"Cheshire County, NH"	"33005"	"2008"	"2008"	Suppressed	77472	Suppressed
+	"Cheshire County, NH"	"33005"	"2009"	"2009"	Suppressed	77302	Suppressed
+	"Cheshire County, NH"	"33005"	"2010"	"2010"	Suppressed	77117	Suppressed
+	"Cheshire County, NH"	"33005"	"2011"	"2011"	Suppressed	76918	Suppressed
+	"Cheshire County, NH"	"33005"	"2012"	"2012"	11	76851	Unreliable
+	"Coos County, NH"	"33007"	"2006"	"2006"	Suppressed	33814	Suppressed
+	"Coos County, NH"	"33007"	"2007"	"2007"	Suppressed	33751	Suppressed
+	"Coos County, NH"	"33007"	"2008"	"2008"	Suppressed	33488	Suppressed
+	"Coos County, NH"	"33007"	"2009"	"2009"	Suppressed	33224	Suppressed
+	"Coos County, NH"	"33007"	"2010"	"2010"	Suppressed	33055	Suppressed
+	"Coos County, NH"	"33007"	"2011"	"2011"	Suppressed	32688	Suppressed
+	"Coos County, NH"	"33007"	"2012"	"2012"	Suppressed	32096	Suppressed
+	"Grafton County, NH"	"33009"	"2006"	"2006"	Suppressed	87236	Suppressed
+	"Grafton County, NH"	"33009"	"2007"	"2007"	Suppressed	87764	Suppressed
+	"Grafton County, NH"	"33009"	"2008"	"2008"	Suppressed	88745	Suppressed
+	"Grafton County, NH"	"33009"	"2009"	"2009"	Suppressed	88926	Suppressed
+	"Grafton County, NH"	"33009"	"2010"	"2010"	Suppressed	89118	Suppressed
+	"Grafton County, NH"	"33009"	"2011"	"2011"	Suppressed	88923	Suppressed
+	"Grafton County, NH"	"33009"	"2012"	"2012"	Suppressed	89181	Suppressed
+	"Hillsborough County, NH"	"33011"	"2006"	"2006"	29	398169	7.28
+	"Hillsborough County, NH"	"33011"	"2007"	"2007"	37	398843	9.28
+	"Hillsborough County, NH"	"33011"	"2008"	"2008"	25	399556	6.26
+	"Hillsborough County, NH"	"33011"	"2009"	"2009"	35	400148	8.75
+	"Hillsborough County, NH"	"33011"	"2010"	"2010"	39	400721	9.73
+	"Hillsborough County, NH"	"33011"	"2011"	"2011"	49	401696	12.20
+	"Hillsborough County, NH"	"33011"	"2012"	"2012"	42	402922	10.42
+	"Merrimack County, NH"	"33013"	"2006"	"2006"	Suppressed	146609	Suppressed
+	"Merrimack County, NH"	"33013"	"2007"	"2007"	18	147024	Unreliable
+	"Merrimack County, NH"	"33013"	"2008"	"2008"	13	147170	Unreliable
+	"Merrimack County, NH"	"33013"	"2009"	"2009"	10	146723	Unreliable
+	"Merrimack County, NH"	"33013"	"2010"	"2010"	Suppressed	146445	Suppressed
+	"Merrimack County, NH"	"33013"	"2011"	"2011"	11	146579	Unreliable
+	"Merrimack County, NH"	"33013"	"2012"	"2012"	Suppressed	146761	Suppressed
+	"Rockingham County, NH"	"33015"	"2006"	"2006"	26	293618	8.86
+	"Rockingham County, NH"	"33015"	"2007"	"2007"	29	294132	9.86
+	"Rockingham County, NH"	"33015"	"2008"	"2008"	18	294996	Unreliable
+	"Rockingham County, NH"	"33015"	"2009"	"2009"	30	295083	10.17
+	"Rockingham County, NH"	"33015"	"2010"	"2010"	20	295223	6.77
+	"Rockingham County, NH"	"33015"	"2011"	"2011"	34	296207	11.48
+	"Rockingham County, NH"	"33015"	"2012"	"2012"	28	297820	9.40
+	"Strafford County, NH"	"33017"	"2006"	"2006"	Suppressed	120363	Suppressed
+	"Strafford County, NH"	"33017"	"2007"	"2007"	10	121735	Unreliable
+	"Strafford County, NH"	"33017"	"2008"	"2008"	Suppressed	122460	Suppressed
+	"Strafford County, NH"	"33017"	"2009"	"2009"	14	123034	Unreliable
+	"Strafford County, NH"	"33017"	"2010"	"2010"	14	123143	Unreliable
+	"Strafford County, NH"	"33017"	"2011"	"2011"	11	123857	Unreliable
+	"Strafford County, NH"	"33017"	"2012"	"2012"	11	124119	Unreliable
+	"Sullivan County, NH"	"33019"	"2006"	"2006"	Suppressed	43396	Suppressed
+	"Sullivan County, NH"	"33019"	"2007"	"2007"	Suppressed	43608	Suppressed
+	"Sullivan County, NH"	"33019"	"2008"	"2008"	Suppressed	43767	Suppressed
+	"Sullivan County, NH"	"33019"	"2009"	"2009"	Suppressed	43728	Suppressed
+	"Sullivan County, NH"	"33019"	"2010"	"2010"	Suppressed	43742	Suppressed
+	"Sullivan County, NH"	"33019"	"2011"	"2011"	Suppressed	43462	Suppressed
+	"Sullivan County, NH"	"33019"	"2012"	"2012"	Suppressed	43074	Suppressed
+	"Bristol County, RI"	"44001"	"2006"	"2006"	Suppressed	50996	Suppressed
+	"Bristol County, RI"	"44001"	"2007"	"2007"	Suppressed	50914	Suppressed
+	"Bristol County, RI"	"44001"	"2008"	"2008"	Suppressed	50668	Suppressed
+	"Bristol County, RI"	"44001"	"2009"	"2009"	Suppressed	50075	Suppressed
+	"Bristol County, RI"	"44001"	"2010"	"2010"	Suppressed	49875	Suppressed
+	"Bristol County, RI"	"44001"	"2011"	"2011"	Suppressed	49800	Suppressed
+	"Bristol County, RI"	"44001"	"2012"	"2012"	Suppressed	49144	Suppressed
+	"Kent County, RI"	"44003"	"2006"	"2006"	16	168522	Unreliable
+	"Kent County, RI"	"44003"	"2007"	"2007"	13	167515	Unreliable
+	"Kent County, RI"	"44003"	"2008"	"2008"	21	167269	12.55
+	"Kent County, RI"	"44003"	"2009"	"2009"	22	166766	13.19
+	"Kent County, RI"	"44003"	"2010"	"2010"	15	166158	Unreliable
+	"Kent County, RI"	"44003"	"2011"	"2011"	26	165535	15.71
+	"Kent County, RI"	"44003"	"2012"	"2012"	35	164843	21.23
+	"Newport County, RI"	"44005"	"2006"	"2006"	Suppressed	85130	Suppressed
+	"Newport County, RI"	"44005"	"2007"	"2007"	Suppressed	82881	Suppressed
+	"Newport County, RI"	"44005"	"2008"	"2008"	Suppressed	82505	Suppressed
+	"Newport County, RI"	"44005"	"2009"	"2009"	Suppressed	82896	Suppressed
+	"Newport County, RI"	"44005"	"2010"	"2010"	Suppressed	82888	Suppressed
+	"Newport County, RI"	"44005"	"2011"	"2011"	Suppressed	82695	Suppressed
+	"Newport County, RI"	"44005"	"2012"	"2012"	Suppressed	82036	Suppressed
+	"Providence County, RI"	"44007"	"2006"	"2006"	86	631691	13.61
+	"Providence County, RI"	"44007"	"2007"	"2007"	54	629110	8.58
+	"Providence County, RI"	"44007"	"2008"	"2008"	80	627889	12.74
+	"Providence County, RI"	"44007"	"2009"	"2009"	65	626304	10.38
+	"Providence County, RI"	"44007"	"2010"	"2010"	70	626667	11.17
+	"Providence County, RI"	"44007"	"2011"	"2011"	90	626709	14.36
+	"Providence County, RI"	"44007"	"2012"	"2012"	77	628323	12.25
+	"Washington County, RI"	"44009"	"2006"	"2006"	Suppressed	126757	Suppressed
+	"Washington County, RI"	"44009"	"2007"	"2007"	10	126895	Unreliable
+	"Washington County, RI"	"44009"	"2008"	"2008"	12	126672	Unreliable
+	"Washington County, RI"	"44009"	"2009"	"2009"	11	127605	Unreliable
+	"Washington County, RI"	"44009"	"2010"	"2010"	14	126979	Unreliable
+	"Washington County, RI"	"44009"	"2011"	"2011"	14	126563	Unreliable
+	"Washington County, RI"	"44009"	"2012"	"2012"	14	125946	Unreliable
+	"Addison County, VT"	"50001"	"2006"	"2006"	Suppressed	36758	Suppressed
+	"Addison County, VT"	"50001"	"2007"	"2007"	Suppressed	36886	Suppressed
+	"Addison County, VT"	"50001"	"2008"	"2008"	Suppressed	36905	Suppressed
+	"Addison County, VT"	"50001"	"2009"	"2009"	Suppressed	36847	Suppressed
+	"Addison County, VT"	"50001"	"2010"	"2010"	Suppressed	36821	Suppressed
+	"Addison County, VT"	"50001"	"2011"	"2011"	Suppressed	36742	Suppressed
+	"Addison County, VT"	"50001"	"2012"	"2012"	Suppressed	36745	Suppressed
+	"Bennington County, VT"	"50003"	"2006"	"2006"	Suppressed	37127	Suppressed
+	"Bennington County, VT"	"50003"	"2007"	"2007"	Suppressed	37077	Suppressed
+	"Bennington County, VT"	"50003"	"2008"	"2008"	Suppressed	37168	Suppressed
+	"Bennington County, VT"	"50003"	"2009"	"2009"	Suppressed	37151	Suppressed
+	"Bennington County, VT"	"50003"	"2010"	"2010"	Suppressed	37125	Suppressed
+	"Bennington County, VT"	"50003"	"2011"	"2011"	Suppressed	36970	Suppressed
+	"Bennington County, VT"	"50003"	"2012"	"2012"	Suppressed	36697	Suppressed
+	"Caledonia County, VT"	"50005"	"2006"	"2006"	Suppressed	31252	Suppressed
+	"Caledonia County, VT"	"50005"	"2007"	"2007"	Suppressed	31238	Suppressed
+	"Caledonia County, VT"	"50005"	"2008"	"2008"	Suppressed	31167	Suppressed
+	"Caledonia County, VT"	"50005"	"2009"	"2009"	Suppressed	31213	Suppressed
+	"Caledonia County, VT"	"50005"	"2010"	"2010"	Suppressed	31227	Suppressed
+	"Caledonia County, VT"	"50005"	"2011"	"2011"	Suppressed	31166	Suppressed
+	"Caledonia County, VT"	"50005"	"2012"	"2012"	Suppressed	31121	Suppressed
+	"Chittenden County, VT"	"50007"	"2006"	"2006"	13	152861	Unreliable
+	"Chittenden County, VT"	"50007"	"2007"	"2007"	Suppressed	153625	Suppressed
+	"Chittenden County, VT"	"50007"	"2008"	"2008"	Suppressed	154659	Suppressed
+	"Chittenden County, VT"	"50007"	"2009"	"2009"	Suppressed	155793	Suppressed
+	"Chittenden County, VT"	"50007"	"2010"	"2010"	Suppressed	156545	Suppressed
+	"Chittenden County, VT"	"50007"	"2011"	"2011"	14	157491	Unreliable
+	"Chittenden County, VT"	"50007"	"2012"	"2012"	14	158504	Unreliable
+	"Essex County, VT"	"50009"	"2006"	"2006"	Suppressed	6341	Suppressed
+	"Essex County, VT"	"50009"	"2007"	"2007"	Suppressed	6421	Suppressed
+	"Essex County, VT"	"50009"	"2008"	"2008"	Suppressed	6404	Suppressed
+	"Essex County, VT"	"50009"	"2009"	"2009"	Suppressed	6331	Suppressed
+	"Essex County, VT"	"50009"	"2010"	"2010"	Suppressed	6306	Suppressed
+	"Essex County, VT"	"50009"	"2011"	"2011"	Suppressed	6291	Suppressed
+	"Essex County, VT"	"50009"	"2012"	"2012"	Suppressed	6226	Suppressed
+	"Franklin County, VT"	"50011"	"2006"	"2006"	Suppressed	47392	Suppressed
+	"Franklin County, VT"	"50011"	"2007"	"2007"	Suppressed	47455	Suppressed
+	"Franklin County, VT"	"50011"	"2008"	"2008"	Suppressed	47462	Suppressed
+	"Franklin County, VT"	"50011"	"2009"	"2009"	Suppressed	47620	Suppressed
+	"Franklin County, VT"	"50011"	"2010"	"2010"	Suppressed	47746	Suppressed
+	"Franklin County, VT"	"50011"	"2011"	"2011"	Suppressed	48113	Suppressed
+	"Franklin County, VT"	"50011"	"2012"	"2012"	Suppressed	48214	Suppressed
+	"Grand Isle County, VT"	"50013"	"2006"	"2006"	Suppressed	7173	Suppressed
+	"Grand Isle County, VT"	"50013"	"2007"	"2007"	Suppressed	7152	Suppressed
+	"Grand Isle County, VT"	"50013"	"2008"	"2008"	Suppressed	7211	Suppressed
+	"Grand Isle County, VT"	"50013"	"2009"	"2009"	Suppressed	7022	Suppressed
+	"Grand Isle County, VT"	"50013"	"2010"	"2010"	Suppressed	6970	Suppressed
+	"Grand Isle County, VT"	"50013"	"2011"	"2011"	Suppressed	6931	Suppressed
+	"Grand Isle County, VT"	"50013"	"2012"	"2012"	Suppressed	6983	Suppressed
+	"Lamoille County, VT"	"50015"	"2006"	"2006"	Suppressed	23642	Suppressed
+	"Lamoille County, VT"	"50015"	"2007"	"2007"	Suppressed	23778	Suppressed
+	"Lamoille County, VT"	"50015"	"2008"	"2008"	Suppressed	23971	Suppressed
+	"Lamoille County, VT"	"50015"	"2009"	"2009"	Suppressed	24193	Suppressed
+	"Lamoille County, VT"	"50015"	"2010"	"2010"	Suppressed	24475	Suppressed
+	"Lamoille County, VT"	"50015"	"2011"	"2011"	Suppressed	24701	Suppressed
+	"Lamoille County, VT"	"50015"	"2012"	"2012"	Suppressed	24958	Suppressed
+	"Orange County, VT"	"50017"	"2006"	"2006"	Suppressed	29249	Suppressed
+	"Orange County, VT"	"50017"	"2007"	"2007"	Suppressed	29119	Suppressed
+	"Orange County, VT"	"50017"	"2008"	"2008"	Suppressed	29032	Suppressed
+	"Orange County, VT"	"50017"	"2009"	"2009"	Suppressed	28965	Suppressed
+	"Orange County, VT"	"50017"	"2010"	"2010"	Suppressed	28936	Suppressed
+	"Orange County, VT"	"50017"	"2011"	"2011"	Suppressed	29006	Suppressed
+	"Orange County, VT"	"50017"	"2012"	"2012"	Suppressed	28924	Suppressed
+	"Orleans County, VT"	"50019"	"2006"	"2006"	Suppressed	27215	Suppressed
+	"Orleans County, VT"	"50019"	"2007"	"2007"	Suppressed	27332	Suppressed
+	"Orleans County, VT"	"50019"	"2008"	"2008"	Suppressed	27269	Suppressed
+	"Orleans County, VT"	"50019"	"2009"	"2009"	Suppressed	27234	Suppressed
+	"Orleans County, VT"	"50019"	"2010"	"2010"	Suppressed	27231	Suppressed
+	"Orleans County, VT"	"50019"	"2011"	"2011"	Suppressed	27173	Suppressed
+	"Orleans County, VT"	"50019"	"2012"	"2012"	Suppressed	27109	Suppressed
+	"Rutland County, VT"	"50021"	"2006"	"2006"	Suppressed	62894	Suppressed
+	"Rutland County, VT"	"50021"	"2007"	"2007"	Suppressed	62618	Suppressed
+	"Rutland County, VT"	"50021"	"2008"	"2008"	Suppressed	62368	Suppressed
+	"Rutland County, VT"	"50021"	"2009"	"2009"	Suppressed	61946	Suppressed
+	"Rutland County, VT"	"50021"	"2010"	"2010"	Suppressed	61642	Suppressed
+	"Rutland County, VT"	"50021"	"2011"	"2011"	10	61289	Unreliable
+	"Rutland County, VT"	"50021"	"2012"	"2012"	Suppressed	60869	Suppressed
+	"Washington County, VT"	"50023"	"2006"	"2006"	Suppressed	59414	Suppressed
+	"Washington County, VT"	"50023"	"2007"	"2007"	Suppressed	59275	Suppressed
+	"Washington County, VT"	"50023"	"2008"	"2008"	Suppressed	59278	Suppressed
+	"Washington County, VT"	"50023"	"2009"	"2009"	Suppressed	59353	Suppressed
+	"Washington County, VT"	"50023"	"2010"	"2010"	Suppressed	59534	Suppressed
+	"Washington County, VT"	"50023"	"2011"	"2011"	Suppressed	59626	Suppressed
+	"Washington County, VT"	"50023"	"2012"	"2012"	Suppressed	59465	Suppressed
+	"Windham County, VT"	"50025"	"2006"	"2006"	Suppressed	44390	Suppressed
+	"Windham County, VT"	"50025"	"2007"	"2007"	Suppressed	44444	Suppressed
+	"Windham County, VT"	"50025"	"2008"	"2008"	Suppressed	44407	Suppressed
+	"Windham County, VT"	"50025"	"2009"	"2009"	Suppressed	44441	Suppressed
+	"Windham County, VT"	"50025"	"2010"	"2010"	Suppressed	44513	Suppressed
+	"Windham County, VT"	"50025"	"2011"	"2011"	Suppressed	44266	Suppressed
+	"Windham County, VT"	"50025"	"2012"	"2012"	Suppressed	43985	Suppressed
+	"Windsor County, VT"	"50027"	"2006"	"2006"	Suppressed	57184	Suppressed
+	"Windsor County, VT"	"50027"	"2007"	"2007"	Suppressed	57061	Suppressed
+	"Windsor County, VT"	"50027"	"2008"	"2008"	Suppressed	56850	Suppressed
+	"Windsor County, VT"	"50027"	"2009"	"2009"	Suppressed	56708	Suppressed
+	"Windsor County, VT"	"50027"	"2010"	"2010"	Suppressed	56670	Suppressed
+	"Windsor County, VT"	"50027"	"2011"	"2011"	Suppressed	56666	Suppressed
+	"Windsor County, VT"	"50027"	"2012"	"2012"	Suppressed	56211	Suppressed
+"---"
+"Dataset: Multiple Cause of Death, 1999-2017"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics); T40.6 (Other"
+"and unspecified narcotics)"
+"States: Connecticut (09); Maine (23); Massachusetts (25); New Hampshire (33); Rhode Island (44); Vermont (50)"
+"UCD - Drug/Alcohol Induced Causes: Drug poisonings (overdose) Unintentional (X40-X44); Drug poisonings (overdose) Undetermined"
+"(Y10-Y14)"
+"Year/Month: 2006; 2007; 2008; 2009; 2010; 2011; 2012"
+"Group By: County; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Oct 6, 2019 7:22:20 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Oct 6, 2019 7:22:20 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"3. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017"
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for"
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS"
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The"
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal"
+"series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1 resident"
+"population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"5. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
